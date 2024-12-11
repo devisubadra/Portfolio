@@ -317,7 +317,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.twitter}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaTwitter aria-label='Twitter' />
@@ -327,7 +327,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.github}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaGithub aria-label='GitHub' />
@@ -337,7 +337,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.linkedIn}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaLinkedinIn aria-label='LinkedIn' />
@@ -347,7 +347,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.instagram}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaInstagram aria-label='Instagram' />
@@ -357,7 +357,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.medium}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaMediumM aria-label='Medium' />
@@ -367,7 +367,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.blogger}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaBloggerB aria-label='Blogger' />
@@ -377,7 +377,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.youtube}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaYoutube aria-label='YouTube' />
@@ -387,7 +387,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.reddit}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaRedditAlien aria-label='Reddit' />
@@ -397,7 +397,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.stackOverflow}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaStackOverflow aria-label='Stack Overflow' />
@@ -407,7 +407,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.codepen}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaCodepen aria-label='CodePen' />
@@ -417,7 +417,7 @@ function Contacts() {
                                 <a
                                     href={socialsData.gitlab}
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                     className={classes.socialIcon}
                                 >
                                     <FaGitlab aria-label='GitLab' />

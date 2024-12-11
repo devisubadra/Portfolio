@@ -79,7 +79,7 @@ function Landing() {
                             <a
                                 href={socialsData.linkedIn}
                                 target='_blank'
-                                rel='noreferrer'
+                                rel='noopener noreferrer'
                             >
                                 <FaLinkedin
                                     className='landing--social'
@@ -92,7 +92,7 @@ function Landing() {
                             <a
                                 href={socialsData.github}
                                 target='_blank'
-                                rel='noreferrer'
+                                rel='noopener noreferrer'
                             >
                                 <FaGithub
                                     className='landing--social'
@@ -105,7 +105,7 @@ function Landing() {
                             <a
                                 href={socialsData.twitter}
                                 target='_blank'
-                                rel='noreferrer'
+                                rel='noopener noreferrer'
                             >
                                 <FaTwitter
                                     className='landing--social'
@@ -118,7 +118,7 @@ function Landing() {
                             <a
                                 href={socialsData.youtube}
                                 target='_blank'
-                                rel='noreferrer'
+                                rel='noopener noreferrer'
                             >
                                 <FaYoutube
                                     className='landing--social'
@@ -131,7 +131,7 @@ function Landing() {
                             <a
                                 href={socialsData.blogger}
                                 target='_blank'
-                                rel='noreferrer'
+                                rel='noopener noreferrer'
                             >
                                 <FaBlogger
                                     className='landing--social'
@@ -169,7 +169,7 @@ function Landing() {
                                     href={headerData.resumePdf}
                                     download='resume'
                                     target='_blank'
-                                    rel='noreferrer'
+                                    rel='noopener noreferrer'
                                 >
                                     <Button className={classes.resumeBtn}>
                                         Download CV

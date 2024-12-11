@@ -353,3 +353,45 @@ export const yellowThemeDark = {
     contactsimg: contactsYellow
 }
 
+export const lightPurpleThemeLight = {
+    type: 'light',
+    primary: '#D8BFD8',
+    primary400: '#E6CCE6',
+    primary600: '#C3A6C3',
+    primary80: '#D8BFD8cc',
+    primary50: '#D8BFD880',
+    primary30: '#D8BFD84d',
+    secondary: '#eaeaea',
+    secondary70: '#eaeaeab3',
+    secondary50: '#eaeaea80',
+    tertiary: '#212121',
+    tertiary80: '#212121cc',
+    tertiary70: '#212121b3',
+    tertiary50: '#21212180',
+    aboutimg1: purpleThemeboy, // Or any other image references you have
+    aboutimg2: purpleThemegirl,
+    eduimg: eduPurple,
+    expimg: expPurple,
+    contactsimg: contactsPurple
+};
+export const lightPurpleThemeDark = {
+    type: 'dark',
+    primary: '#D8BFD8',
+    primary400: '#E6CCE6',
+    primary600: '#C3A6C3',
+    primary80: '#D8BFD8cc',
+    primary50: '#D8BFD880',
+    primary30: '#D8BFD84d',
+    secondary: '#212121',
+    secondary70: '#212121b3',
+    secondary50: '#21212180',
+    tertiary: '#eaeaea',
+    tertiary80: '#eaeaeacc',
+    tertiary70: '#eaeaeab3',
+    tertiary50: '#eaeaea80',
+    aboutimg1: purpleThemeboy,
+    aboutimg2: purpleThemegirl,
+    eduimg: eduPurple,
+    expimg: expPurple,
+    contactsimg: contactsPurple
+};
