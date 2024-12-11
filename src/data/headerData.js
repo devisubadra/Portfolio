@@ -3,8 +3,8 @@ import image from '../assets/png/Subadra-min.jpg'
 
 export const headerData = {
     name: 'Devi Subadra Venkatesan',
-    title: "Software Engineer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    title: "Software Engineer | Full-Stack Development | Cloud Solutions",
+    desciption:"Empowering businesses with scalable software solutions, cloud infrastructure, and data engineering to optimize performance and deliver measurable results.",
     image: image,
     resumePdf: resume
 }
